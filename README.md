@@ -1,16 +1,3 @@
-
-### Objective: 
-
-
-### Dataset: 
-
-
-
-
-
-
-
-
 # Assignment 4: Convolutional Neural Networks (CNN) for FashionMNIS
 
 The goal of this assignment is to implement a Convolutional Neural Network (CNN)
