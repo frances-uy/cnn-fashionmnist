@@ -1,4 +1,4 @@
-# Assignment 4: Convolutional Neural Networks (CNN) for FashionMNIS
+# Assignment 4: Convolutional Neural Networks (CNN) for Fashion MNIST
 
 The goal of this assignment is to implement a Convolutional Neural Network (CNN)
 to classify images from the FashionMNIST dataset. You will learn how to preprocess the data,
